@@ -16,8 +16,8 @@ This repository contains a simple example of a TCP client-server communication i
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/tcp-client-server-python.git
-    cd tcp-client-server-python
+    git clone https://github.com/Tigman84/TCP_client_server_example.git
+    cd TCP_client_server_example
     ```
 
 2. Run the server:
